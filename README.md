@@ -1,4 +1,5 @@
 
+<img width="737" height="520" alt="Screenshot 2025-09-30 at 7 01 39 AM" src="https://github.com/user-attachments/assets/6e5562c5-adbf-4450-b04b-d70ef4ca3d4c" />
 
 ````markdown
 # SoundCloud Scraper App
